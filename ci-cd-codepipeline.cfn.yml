@@ -1,4 +1,6 @@
 ---
+echo $EKS_CLUSTER_NAME
+echo $EKS_KUBECTL_ROLE_ARN
 AWSTemplateFormatVersion: 2010-09-09
 
 Description: EKSWSV1
